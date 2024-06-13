@@ -6,7 +6,7 @@ Click here to [`Play Now`](https://codewithraj721.github.io/Monsterio/)
 
 ## Screenshots
 
-![Monster.png](https://i.postimg.cc/85Ntj6LX/Monster.pn)
+![Monster.png](https://camo.githubusercontent.com/8709d20c6989be19b3691a298df77a6f925b84a1057d6f961b97c65a13dbd4df/68747470733a2f2f692e706f7374696d672e63632f38354e746a364c582f4d6f6e737465722e706e67)
 
 ## Tutorial & features
 - Monsterio game starts with a simple loading screen and it fade-out within a few seconds.
